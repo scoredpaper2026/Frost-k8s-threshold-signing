@@ -1,0 +1,15 @@
+# binaries
+bin/
+dist/
+
+# mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# logs
+*.log
+data/frost-keys.json
+data/ecdsa-signing.pem
